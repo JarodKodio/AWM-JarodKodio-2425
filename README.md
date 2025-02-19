@@ -1,7 +1,7 @@
-# AWM-VoornaamNaam-2425
+# AWM-JarodKodio-2425
 
 * Jaar : 2024-2025
-* Naam : **SCHRIJF HIER JE EIGEN NAAM**
+* Naam : Jarod Kodio
 * [logboek](logboek.md)
 
 ## Linken
