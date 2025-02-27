@@ -64,7 +64,7 @@ fun LemonApp() {
     ) {
         Box(
             modifier = Modifier.fillMaxSize()
-            
+
         ) {
             Text(
                 text = "Lemonade",
@@ -85,7 +85,10 @@ fun LemonApp() {
                     .size(200.dp)
                     .clickable {
                         // Verhoog de index en reset bij de laatste afbeelding
-                        currentIndex = (currentIndex + 1) % imageList.size
+                        currentIndex += 1
+                        if (currentIndex >= imageList.size) {
+                            currentIndex = 0
+                        }
                     }
             )
             Text(
