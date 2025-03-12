@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations App</string>
+    <string name="affirmation1">You are amazing!</string>
+    <string name="affirmation2">Keep going!</string>
+    <string name="affirmation3">Keep going!</string>
+    <string name="affirmation4">Keep going!</string>
+    <string name="affirmation5">Keep going!</string>
+    <string name="affirmation6">Keep going!</string>
+    <string name="affirmation7">Keep going!</string>
+    <string name="affirmation8">Keep going!</string>
+    <string name="affirmation9">Keep going!</string>
+    <string name="affirmation10">Keep going!</string>
+</resources>
