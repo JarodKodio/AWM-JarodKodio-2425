@@ -112,7 +112,7 @@ fun Art() {
                 verticalAlignment = Alignment.CenterVertically,
                 modifier = Modifier.fillMaxWidth()
             ){
-                Button(onClick = {// Verhoog de index en reset bij de laatste afbeelding
+                Button(onClick = {
                     if (currentIndex > 0) {
                         currentIndex -= 1
                     }
