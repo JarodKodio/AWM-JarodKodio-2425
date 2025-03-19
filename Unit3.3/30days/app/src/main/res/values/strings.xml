@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">30days</string>
+    <string name="day1">day 1</string>
+    <string name="day2">day 2</string>
+    <string name="day3">day 3</string>
+    <string name="day4">30days</string>
+    <string name="day5">day 4</string>
+    <string name="day6">day 6</string>
+    <string name="day7">day 7</string>
+    <string name="day8">day 8</string>
+    <string name="day9">day 9</string>
+    <string name="day10">day 10</string>
+    <string name="team_name">Arsenal</string>
+    <string name="big_gabi">Gabriel</string>
+    <string name="trossard">Trossard</string>
+    <string name="saka">Saka</string>
+    <string name="saliba">Saliba</string>
+    <string name="raya">Raya</string>
+    <string name="rice">Rice</string>
+    <string name="partey">Partey</string>
+    <string name="skelly">Skelly</string>
+    <string name="kai">Havertz</string>
+    <string name="nwaneri">Nwaneri</string>
+</resources>
