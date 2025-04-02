@@ -1,10 +1,10 @@
 <resources>
-    <string name="app_name">30days</string>
+    <string name="app_name">30 days of Arsenal</string>
     <string name="day1">day 1</string>
     <string name="day2">day 2</string>
     <string name="day3">day 3</string>
-    <string name="day4">30days</string>
-    <string name="day5">day 4</string>
+    <string name="day4">day 4</string>
+    <string name="day5">day 5</string>
     <string name="day6">day 6</string>
     <string name="day7">day 7</string>
     <string name="day8">day 8</string>
